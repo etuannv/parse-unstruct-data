@@ -1,0 +1,682 @@
+
+  RUN DATE: 11/25/19                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+                  DISTRICT CRIMINAL COURT
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  18CR 702572 BAIN,JOSHUA,KALEB     JOHNSON,B,D    SFF ATTY:SPRINGER,BRITT,   2
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       97G0148
+        CLS:3  P:   L:                  JUDGMENT:                           ADA: LJM
+
+
+
+
+
+        (T)CANCL/REVOK/SUSP CERTIF/TAG      PLEA:                VER:       97G0148
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+     2  19CR 051058 BARROW,HUNTER,CHRISTO REED,M         SFF ATTY:HARMON,JASON      2
+                    BOND:     $10,000 SEC
+        (M)ASSAULT ON A FEMALE              PLEA:                VER:
+        CLS:A1 P:   L:      DOM VL: Y   JUDGMENT:
+
+
+
+
+
+        (M)INTERFERE EMERG COMMUNICATION    PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+
+
+
+     3  19CR 051059 BARROW,HUNTER,CHRISTO BOWEN,J        SFF ATTY:HARMON,JASON      1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4587815
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       C4587815
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+     4  19IF 000107 BARROW,HUNTER,CHRISTO BOWEN,C        SFF ATTY:HARMON,JASON      1
+        (I)POSS OPN CNT/CONS ALC PSG AREA   PLEA:                VER:       C4587816
+                                        JUDGMENT:
+
+
+
+
+
+        (I)DRIVE LEFT OF CENTER             PLEA:                VER:       C4587816
+                                        JUDGMENT:
+
+
+
+
+
+     5  19CR 051008 BEYER,JAMES,BRENT     STAHL,LAURA,ES     ATTY:DUNNAGAN,CHRIST   3
+                    BOND:             WPA
+        (M)ASSAULT WITH A DEADLY WEAPON     PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+
+
+
+     6  19CR 051280 CALDWELL,ASHER,KAHMAN MILLER,C       SFF ATTY:WAIVED            1
+                    BOND:        $750 SEC
+        (M)RESISTING PUBLIC OFFICER         PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+
+     7  19CR 051281 CALDWELL,ASHER,KAHMAN MILLER,C       SFF                        1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:        $500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4583336
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       C4583336
+                                        JUDGMENT:
+
+
+
+
+
+     8  19CR 051324 CALDWELL,ASHER,KAHMAN ENGLISH,J      BPD ATTY:WAIVED            1
+                    BOND:      $1,500 UNS
+        (T)HIT/RUN LEAVE SCENE PROP DAM     PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+     9  19CR 703311 CARLTON,STEVE,THOMAS  GRAGG,A,S      SFF APT.:HITE,TYLER,PAYT   1
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       666G207
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+    10  19CR 702452 CLAIBORNE,GEORGE,BATT BYRD,T,D       BPD ATTY:HARMON,JASON      2
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       2439G66
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       2439G66
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    11  19CR 701388 CURRIE,MICHAEL,EUGENE MILLER,C,L     SFF ATTY:ISAACS,KENNETH,   4
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       835G593
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    12  19CR 050943 GILBERT,STEPHANIE,DEN BYRD,T         BPD ATTY:CASEY,SCOTT       2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       Y0029181
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    4
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    13  19CR 000610 GLENN,JESSE,WILLIAM   REED,M         SFF                        1
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       C4587191
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    14  19CR 000529 GREER,TREYTHAN,NATHAN REED,M         SFF ATTY:WAIVED            1
+        (M)POSSESS MARIJUANA UP TO 1/2 OZ   PLEA:                VER:       C4587189
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       C4587189
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+    15  19CR 000358 HALEY,WESLEY,VERNON   GRAGG,A        SFF ATTY:HARMON,JASON      3
+        (T)OPERATE VEH NO INS               PLEA:                VER:       C4583455
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (T)CANCL/REVOK/SUSP CERTIF/TAG      PLEA:                VER:       C4583455
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    16  19CR 050614 HALEY,WESLEY,VERNON   GRAGG,A        SFF ATTY:HARMON,JASON      3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:        $500 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4583454
+                                        JUDGMENT:
+
+
+
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       C4583454
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    5
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (T)VEHICLE SEIZURE                  PLEA:                VER:       C4583454
+        CLS:   P:   L:                  JUDGMENT:
+
+
+
+
+
+    17  19CR 050887 HARRIS,DANIEL,CLAYTON BYRD,T         BPD ATTY:SPRINGER,BRITT,   2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4072155
+                                        JUDGMENT:
+
+
+
+
+
+        (I)DESIGNATED LANE VIOLATION        PLEA:                VER:       C4072155
+                                        JUDGMENT:
+
+
+
+
+
+    18  19CR 702431 HARRIS,DANIEL,CLAYTON BYRD,T,D       BPD                        2
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:       2439G65
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    19  19CR 050876 HEBERT,SAVANNAH,ELIZA GRAGG,A        SFF ATTY:HARMON,JASON      2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $2,500 SEC
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:       Y0027347
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (M)SIMPLE POSSESS SCH II CS (M)     PLEA:                VER:       Y0027347
+        CLS:1  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    6
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)MISDEMEANOR CHILD ABUSE          PLEA:                VER:       Y0027347
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+
+
+
+    20  19CR 050877 HEBERT,SAVANNAH,ELIZA GRAGG,A        SFF ATTY:HARMON,JASON      2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4583463
+                                        JUDGMENT:
+
+
+
+
+
+        (T)RECKLESS DRVG-WANTON DISREGARD   PLEA:                VER:       C4583463
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+
+    21  19CR 051077 JACKSON,WAYNE         GRAGG,A        SFF APT.:MORGAN,BRIAN,SC   2
+                    BOND:        $500 SEC
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       Y0032401
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    22  19CR 703564 JACOBS,REESE,THOMASON BYRD,T,D       BPD ATTY:HARMON,JASON      1
+        (M)POSS MARIJ >1/2 TO 1 1/2 OZ      PLEA:                VER:       9541G93
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       9541G93
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    23  19CR 703317 JOHNSON,KENNETH,JOSEP MILLER,C,L     SFF ATTY:SPEED,ROBERT,T    1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       4652G68
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    7
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    24  19CR 050099 JOHNSON,ROBERT,DANE   BRITT,M        BPD APT.:MORGAN,BRIAN,SC   6
+                    BOND:     $20,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       Y0006824
+                                        JUDGMENT:                           ADA: MOW
+
+
+
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       Y0006824
+                                        JUDGMENT:
+
+
+
+
+
+    25  19CR 050100 JOHNSON,ROBERT,DANE   BRITT,M        BPD APT.:MORGAN,BRIAN,SC   6
+                    BOND:          $1 SEC
+        (T)DWLR IMPAIRED REV                PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:                           ADA: JS
+
+
+
+
+
+    26  19CR 000519 LAFORGE,JACQUES,ROGER REED,M         SFF ATTY:HARMON,JASON      2
+        (M)NOISE ORDINANCE VIOLATION        PLEA:                VER:       C4587187
+        CLS:   P:   L:                  JUDGMENT:
+
+
+
+
+
+    27  19CR 051018 MORAN,CRYSTAL         GRAGG,A        SFF                        2
+                    BOND:             WPA
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    28  19CR 050798 OAKS,RICKY,LEE        REED,M         SFF ATTY:WAIVED            3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $10,000 SEC
+        (M)ASSAULT ON A FEMALE              PLEA:                VER:
+        CLS:A1 P:   L:      DOM VL: Y   JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    8
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (M)ASSAULT ON A FEMALE              PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+
+
+
+
+
+    29  19CR 050510 OLALDE GARCIA,FRANCIS BRITT,M        BPD ATTY:CASEY,SCOTT       4
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                   SPANISH
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       Y0017969
+                                        JUDGMENT:
+
+
+
+
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       Y0017969
+                                        JUDGMENT:
+
+
+
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       Y0017969
+                                        JUDGMENT:
+
+
+
+
+
+    30  19CR 701593 OLALDE-GARCIA,FRANCIS BRITT,M,P      BPD ATTY:CASEY,SCOTT       4
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       973G541
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+    31  19CR 050410 PARDUE,JEFFREY,DAVID  MILLER,C       SFF ATTY:SPEED,ROBERT,T    5
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4583335
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    9
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+        (I)FAIL MAINTAIN LANE CONTROL       PLEA:                VER:       C4583335
+                                        JUDGMENT:
+
+
+
+
+
+    32  19CR 703365 PEARSON,SAMANTHA,OREA BYRD,T,D       BPD                        1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       2439G81
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    33  19CR 051180 SANCHEZ,EDGAR,JOAQUIN BUMGARNER,B    SFF ATTY:SPEED,ROBERT,T    1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:             CUS
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       C4871001
+                                        JUDGMENT:
+
+
+
+
+
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       C4871001
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       C4871001
+                                        JUDGMENT:
+
+
+
+
+
+    34  19CR 000397 SANTOS,MARIO,HERNANDE GRAGG,A        SFF ATTY:HARMON,JASON      3
+        (T)NO OPERATORS LICENSE             PLEA:                VER:       C4583461
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    35  19CR 051134 SCHAEFER,DANIEL,GREGO BRITT,M        BPD ATTY:SPRINGER,BRITT,   1
+                    BOND:             WPA
+        (T)DRIVE AFTER CONSUMING < 21       PLEA:                VER:       Y0033497
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   10
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    36  19CR 051229 STANSBERRY,EDDIE,PAUL MILLER,C       SFF ATTY:CASEY,SCOTT       1
+                    BOND:      $1,000 CSH
+        (M)VIOLATION OF COURT ORDER         PLEA:                VER:       Y0035859
+                                        JUDGMENT:
+
+
+
+
+
+    37  19CR 701923 STEGALL,RICKY,LEONARD MILLER,C,L     SFF APT.:MORGAN,BRIAN,SC   1
+                    BOND:      $2,000 SEC
+        (T)DWLR IMPAIRED REV                PLEA:                VER:       835G601
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+    38  19CR 702701 TATUM,JONATHAN        GRAGG,A,S      SFF                        2
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       666G203
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (T)CANCL/REVOK/SUSP CERTIF/TAG      PLEA:                VER:       666G203
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    39  19CR 702702 TATUM,JONATHAN        GRAGG,A,S      SFF                        2
+        (T)DRIVE/ALLOW MV NO REGISTRATION   PLEA:                VER:       666G204
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    40  19CR 701849 TZOTSCHEW,IVAN,ANDREA MILLER,C,L     SFF                        4
+        (T)FAIL COMPLY LIC RESTRICTIONS     PLEA:                VER:       835G600
+        CLS:3  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:   11
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+    41  19CR 703354 WINEBARGER,NICKLAS,LE GRAGG,A,S      SFF APT.:POSEY,KISA,PARK   1
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       666G210
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (T)EXPIRED REGISTRATION CARD/TAG    PLEA:                VER:       666G210
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+    42  19CR 703355 WINEBARGER,NIKLAS,LEE GRAGG,A,S      SFF APT.:POSEY,KISA,PARK   1
+        (T)DRIVE/ALLOW MV NO REGISTRATION   PLEA:                VER:       666G211
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (T)NO LIABILITY INSURANCE           PLEA:                VER:       666G211
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+
+    43  19CR 703356 WINEBARGER,NIKLAS,LEE GRAGG,A,S      SFF APT.:POSEY,KISA,PARK   1
+        (T)FICT/ALT TITLE/REG CARD/TAG      PLEA:                VER:       666G212
+        CLS:3  P:   L:                  JUDGMENT:
+1 RUN DATE: 11/25/19                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+                  DISTRICT CRIMINAL COURT
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 BAIN,JOSHUA,KALEB      DWLR NOT IMPAIRED REV          JOHNSON,B,D 18CR 702572
+                                CANCL/REVOK/SUSP CERTIF/TAG    JOHNSON,B,D 18CR 702572
+       2 BARROW,HUNTER,CHRISTOP ASSAULT ON A FEMALE            REED,M      19CR 051058
+                                INTERFERE EMERG COMMUNICATION  REED,M      19CR 051058
+  **   3 BARROW,HUNTER,CHRISTOP DRIVING WHILE IMPAIRED         BOWEN,J     19CR 051059
+                                EXPIRED REGISTRATION CARD/TAG  BOWEN,J     19CR 051059
+       4 BARROW,HUNTER,CHRISTOP POSS OPN CNT/CONS ALC PSG AREA BOWEN,C     19IF 000107
+                                DRIVE LEFT OF CENTER           BOWEN,C     19IF 000107
+       5 BEYER,JAMES,BRENT      ASSAULT WITH A DEADLY WEAPON   STAHL,LAURA 19CR 051008
+       6 CALDWELL,ASHER,KAHMANI RESISTING PUBLIC OFFICER       MILLER,C    19CR 051280
+  **   7 CALDWELL,ASHER,KAHMANI DRIVING WHILE IMPAIRED         MILLER,C    19CR 051281
+                                FAIL MAINTAIN LANE CONTROL     MILLER,C    19CR 051281
+       8 CALDWELL,ASHER,KAHMANI HIT/RUN LEAVE SCENE PROP DAM   ENGLISH,J   19CR 051324
+       9 CARLTON,STEVE,THOMAS   DWLR IMPAIRED REV              GRAGG,A,S   19CR 703311
+      10 CLAIBORNE,GEORGE,BATTL DWLR IMPAIRED REV              BYRD,T,D    19CR 702452
+                                EXPIRED REGISTRATION CARD/TAG  BYRD,T,D    19CR 702452
+      11 CURRIE,MICHAEL,EUGENE  DWLR NOT IMPAIRED REV          MILLER,C,L  19CR 701388
+  **  12 GILBERT,STEPHANIE,DENI DRIVING WHILE IMPAIRED         BYRD,T      19CR 050943
+      13 GLENN,JESSE,WILLIAM    NO OPERATORS LICENSE           REED,M      19CR 000610
+      14 GREER,TREYTHAN,NATHANI POSSESS MARIJUANA UP TO 1/2 OZ REED,M      19CR 000529
+                                POSSESS DRUG PARAPHERNALIA     REED,M      19CR 000529
+      15 HALEY,WESLEY,VERNON    OPERATE VEH NO INS             GRAGG,A     19CR 000358
+                                CANCL/REVOK/SUSP CERTIF/TAG    GRAGG,A     19CR 000358
+  **  16 HALEY,WESLEY,VERNON    DRIVING WHILE IMPAIRED         GRAGG,A     19CR 050614
+                                NO OPERATORS LICENSE           GRAGG,A     19CR 050614
+                                VEHICLE SEIZURE                GRAGG,A     19CR 050614
+  **  17 HARRIS,DANIEL,CLAYTON  DRIVING WHILE IMPAIRED         BYRD,T      19CR 050887
+                                DESIGNATED LANE VIOLATION      BYRD,T      19CR 050887
+      18 HARRIS,DANIEL,CLAYTON  FAIL COMPLY LIC RESTRICTIONS   BYRD,T,D    19CR 702431
+  **  19 HEBERT,SAVANNAH,ELIZAB SIMPLE POSSESS SCH IV CS (M)   GRAGG,A     19CR 050876
+                                SIMPLE POSSESS SCH II CS (M)   GRAGG,A     19CR 050876
+                                MISDEMEANOR CHILD ABUSE        GRAGG,A     19CR 050876
+  **  20 HEBERT,SAVANNAH,ELIZAB DRIVING WHILE IMPAIRED         GRAGG,A     19CR 050877
+                                RECKLESS DRVG-WANTON DISREGARD GRAGG,A     19CR 050877
+      21 JACKSON,WAYNE          DWLR NOT IMPAIRED REV          GRAGG,A     19CR 051077
+      22 JACOBS,REESE,THOMASON  POSS MARIJ >1/2 TO 1 1/2 OZ    BYRD,T,D    19CR 703564
+                                POSSESS MARIJ PARAPHERNALIA    BYRD,T,D    19CR 703564
+      23 JOHNSON,KENNETH,JOSEPH DWLR NOT IMPAIRED REV          MILLER,C,L  19CR 703317
+      24 JOHNSON,ROBERT,DANE    DRIVING WHILE IMPAIRED         BRITT,M     19CR 050099
+                                CIVIL REVOCATION DR LIC (30)   BRITT,M     19CR 050099
+      25 JOHNSON,ROBERT,DANE    DWLR IMPAIRED REV              BRITT,M     19CR 050100
+      26 LAFORGE,JACQUES,ROGER  NOISE ORDINANCE VIOLATION      REED,M      19CR 000519
+      27 MORAN,CRYSTAL          DWLR NOT IMPAIRED REV          GRAGG,A     19CR 051018
+  **  28 OAKS,RICKY,LEE         ASSAULT ON A FEMALE            REED,M      19CR 050798
+                                ASSAULT ON A FEMALE            REED,M      19CR 050798
+ SPA  29 OLALDE GARCIA,FRANCISC DRIVING WHILE IMPAIRED         BRITT,M     19CR 050510
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 12/05/19        TIME: 09:00 AM        COURTROOM NUMBER: 000B
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+                                FAIL MAINTAIN LANE CONTROL     BRITT,M     19CR 050510
+                                CIVIL REVOCATION DR LIC (30)   BRITT,M     19CR 050510
+      30 OLALDE-GARCIA,FRANCISC DWLR IMPAIRED REV              BRITT,M,P   19CR 701593
+      31 PARDUE,JEFFREY,DAVID   DRIVING WHILE IMPAIRED         MILLER,C    19CR 050410
+                                FAIL MAINTAIN LANE CONTROL     MILLER,C    19CR 050410
+      32 PEARSON,SAMANTHA,OREAN DWLR NOT IMPAIRED REV          BYRD,T,D    19CR 703365
+  **  33 SANCHEZ,EDGAR,JOAQUIN  DRIVING WHILE IMPAIRED         BUMGARNER,B 19CR 051180
+                                NO OPERATORS LICENSE           BUMGARNER,B 19CR 051180
+                                CIVIL REVOCATION DR LIC (30)   BUMGARNER,B 19CR 051180
+      34 SANTOS,MARIO,HERNANDEZ NO OPERATORS LICENSE           GRAGG,A     19CR 000397
+      35 SCHAEFER,DANIEL,GREGOR DRIVE AFTER CONSUMING < 21     BRITT,M     19CR 051134
+      36 STANSBERRY,EDDIE,PAUL  VIOLATION OF COURT ORDER       MILLER,C    19CR 051229
+      37 STEGALL,RICKY,LEONARD  DWLR IMPAIRED REV              MILLER,C,L  19CR 701923
+      38 TATUM,JONATHAN         FICT/ALT TITLE/REG CARD/TAG    GRAGG,A,S   19CR 702701
+                                CANCL/REVOK/SUSP CERTIF/TAG    GRAGG,A,S   19CR 702701
+      39 TATUM,JONATHAN         DRIVE/ALLOW MV NO REGISTRATION GRAGG,A,S   19CR 702702
+      40 TZOTSCHEW,IVAN,ANDREAS FAIL COMPLY LIC RESTRICTIONS   MILLER,C,L  19CR 701849
+      41 WINEBARGER,NICKLAS,LEE DWLR NOT IMPAIRED REV          GRAGG,A,S   19CR 703354
+                                EXPIRED REGISTRATION CARD/TAG  GRAGG,A,S   19CR 703354
+      42 WINEBARGER,NIKLAS,LEE  DRIVE/ALLOW MV NO REGISTRATION GRAGG,A,S   19CR 703355
+                                NO LIABILITY INSURANCE         GRAGG,A,S   19CR 703355
+      43 WINEBARGER,NIKLAS,LEE  FICT/ALT TITLE/REG CARD/TAG    GRAGG,A,S   19CR 703356
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

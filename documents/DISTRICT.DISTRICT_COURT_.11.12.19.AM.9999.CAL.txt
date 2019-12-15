@@ -1,0 +1,124 @@
+
+  RUN DATE: 11/08/19                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 11/12/19        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  19CR 051211 HALLYBURTON,TAYLOR,JO ROLLINS,M      SFF APT.:POSEY,KISA,PARK   3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $50,000 SEC
+        (F)FIRST DEGREE BURGLARY            PLEA:                VER:
+        CLS:D  P:   L:                  JUDGMENT:                           ADA: ACC
+
+
+
+
+
+        (F)FELONY LARCENY                   PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+
+
+
+        (M)INJURY TO REAL PROPERTY          PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+     2  19CR 051212 HALLYBURTON,TAYLOR,JO ROLLINS,M      SFF APT.:POSEY,KISA,PARK   3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:          $1 SEC
+        (F)LARCENY OF MOTOR VEHICLE (F)     PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: ACC
+
+
+
+
+
+        (F)FELONY LARCENY                   PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 11/12/19        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     3  19CR 051360 HICKS,CHRISTOPHER     BRADLEY,C      SFF APT.:POSEY,KISA,PARK   1
+        (M)POSS WEAPON STATE PROP/CRTHOUS   PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+     4  19CR 703283 HICKS,CHRISTOPHER,JAM LAWS,E         BPD APT.:POSEY,KISA,PARK   2
+        (M)POSSESS MARIJ PARAPHERNALIA      PLEA:                VER:       9178G49
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+     5  19CR 051409 HOLLAR,BILLY,DEAN     TAYLOR,C       SFF APT.:ISAACS,KENNETH,   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $15,000 SEC
+        (F)POSSESS STOLEN MOTOR VEHICLE     PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+
+
+
+     6  19CR 051408 WEBB,BENSON,MILES     TAYLOR,C       SFF ATTY:WAIVED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $15,000 SEC
+        (F)POSSESS STOLEN MOTOR VEHICLE     PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+1 RUN DATE: 11/08/19                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 11/12/19        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+  **   1 HALLYBURTON,TAYLOR,JO  FIRST DEGREE BURGLARY          ROLLINS,M   19CR 051211
+                                FELONY LARCENY                 ROLLINS,M   19CR 051211
+                                INJURY TO REAL PROPERTY        ROLLINS,M   19CR 051211
+  **   2 HALLYBURTON,TAYLOR,JO  LARCENY OF MOTOR VEHICLE (F)   ROLLINS,M   19CR 051212
+                                FELONY LARCENY                 ROLLINS,M   19CR 051212
+       3 HICKS,CHRISTOPHER      POSS WEAPON STATE PROP/CRTHOUS BRADLEY,C   19CR 051360
+       4 HICKS,CHRISTOPHER,JAME POSSESS MARIJ PARAPHERNALIA    LAWS,E      19CR 703283
+  **   5 HOLLAR,BILLY,DEAN      POSSESS STOLEN MOTOR VEHICLE   TAYLOR,C    19CR 051409
+  **   6 WEBB,BENSON,MILES      POSSESS STOLEN MOTOR VEHICLE   TAYLOR,C    19CR 051408
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED
